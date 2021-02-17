@@ -16,6 +16,8 @@ class HelloWorldWithState extends Component {
                     Hello World from <b>{this.state.name}</b>
                 </div>
                 <div>
+                    {/*This is an example of controlled input, you can use uncontrolled inputs too,
+                    but stick to controlled input unless you absolutely need uncontrolled input*/}
                     <input
                         type="text"
                         onChange={this.handleOnNameChange}
