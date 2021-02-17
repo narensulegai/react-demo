@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Download PPT here](https://github.com/narensulegai/react-demo/raw/master/ReactDemo.pdf)
 
 ### `npm start`
 
