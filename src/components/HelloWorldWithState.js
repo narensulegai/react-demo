@@ -19,6 +19,7 @@ class HelloWorldWithState extends Component {
                     {/*This is an example of controlled input, you can use uncontrolled inputs too,
                     but stick to controlled input unless you absolutely need uncontrolled input*/}
                     <input
+                        data-testid="name-input-box"
                         type="text"
                         onChange={this.handleOnNameChange}
                         placeholder="From name"

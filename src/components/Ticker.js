@@ -21,7 +21,7 @@ class Ticker extends Component {
 
     render() {
         return (
-            <h1>
+            <h1 data-testid="tick-number">
                 {this.state.tick}
             </h1>
         );
