@@ -9,3 +9,8 @@ input {
     text-align: center;
     font-size: 30px;
 }
+
+.block {
+    padding: 50px;
+    border: 1px solid black;
+}

@@ -20,7 +20,7 @@ class HelloWorldApi extends Component {
         return (
             <>
                 <div>
-                    {this.state.jsFrameworks.length === 0 && 'No frameworks to show'}
+                    {this.state.jsFrameworks.length === 0 ? 'No frameworks to show' : null}
                 </div>
                 <div>
                     {this.state.jsFrameworks.map(f => {

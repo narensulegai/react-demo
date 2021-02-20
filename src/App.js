@@ -1,5 +1,5 @@
-// Include your app wide css in App.css, you can import css in every component file,
-// but it will create confusion in terms of overwriting css, so stick to just one css file.
+// Include your app wide css in App.css, you can still import css in every component file,
+// but it will create confusion in terms of overwriting css. So stick to just few css file.
 // Css classes in defined here will be available in every child component
 import './App.css';
 import React, {useState} from 'react';
@@ -45,7 +45,7 @@ function App() {
                 </select>
             </div>
             <br/>
-            <div>
+            <div className="block">
                 {examples[example]}
             </div>
         </>
