@@ -1,6 +1,6 @@
 # React demo
 
-[Download PPT here](https://github.com/narensulegai/mocha-demo/raw/master/MochaAndJMeter.pdf)
+[Download PPT here](https://github.com/narensulegai/react-demo/raw/master/ReactDemo.pdf)
 
 
 ## To start server
