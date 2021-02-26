@@ -4,4 +4,4 @@
 
 
 ## To run Mocha tests
-### `npx mocha app.test.js # assuming you have node >= 12`
+`npx mocha app.test.js # assuming you have node >= 12`
